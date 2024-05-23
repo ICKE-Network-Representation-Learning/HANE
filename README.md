@@ -10,6 +10,6 @@ If you find this repository useful in your research, please cite our paper:
   volume={35},
   number={3},
   pages={2641--2656},
-  year={2021},
+  year={2023},
   publisher={IEEE}
 }
